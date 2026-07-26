@@ -363,8 +363,3 @@ This project is open source and available for educational and portfolio purposes
 - Job posting data sourced for educational data analysis purposes
 - Inspired by real-world data analyst career exploration
 
----
-
-<p align="center">
-  <i>Built with ❤️ and SQL</i>
-</p>
