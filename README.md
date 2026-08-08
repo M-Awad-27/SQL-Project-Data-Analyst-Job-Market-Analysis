@@ -363,3 +363,8 @@ This project is open source and available for educational and portfolio purposes
 - Job posting data sourced for educational data analysis purposes
 - Inspired by real-world data analyst career exploration
 
+## 👨‍💻 Author
+
+<h1 align="center">
+  🍁 Made by <span style="color: #FF0055;">M</span><span style="color: #00E5FF;">A</span> 🍁
+</h1>
